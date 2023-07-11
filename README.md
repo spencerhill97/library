@@ -21,8 +21,8 @@ https://spencerhill97.github.io/library/
 
 ## Screenshots
 
-<img src="https://github.com/spencerhill97/library/assets/113248092/eb975621-508f-456f-bf9c-442da2dc5aec" width="350" />
-<img src="https://github.com/spencerhill97/library/assets/113248092/7b74c591-6b7e-4502-87fb-f0da55623621" width="350" />
+<img src="https://github.com/spencerhill97/library/assets/113248092/7b74c591-6b7e-4502-87fb-f0da55623621" height="350" />
+<img src="https://github.com/spencerhill97/library/assets/113248092/eb975621-508f-456f-bf9c-442da2dc5aec" height="350" />
 
 
 ## Features
