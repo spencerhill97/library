@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Luckiest+Guy&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/1ca06ab280.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="./main.js" defer></script>
+    <title>Library Project</title>
+  </head>
+  <body>
+    <main>
+      <header class="header">
+        <h1 class="header">my library</h1>
+        <button class="add-btn">
+          <i class="fa-solid fa-plus"></i> add book
+        </button>
+      </header>
+      <section class="book-list"></section>
+      <section class="form-overlay hidden">
+        <form action="submitBook" id="book-form">
+          <fieldset>
+            <legend>new book info</legend>
+            <div class="input-div">
+              <label for="title">title</label>
+              <input type="text" id="title" required />
+            </div>
+            <div class="input-div">
+              <label for="author">author</label>
+              <input type="text" id="author" required />
+            </div>
+            <div class="input-div">
+              <label for="pages">pages</label>
+              <input type="number" id="pages" required min="0" />
+            </div>
+            <p class="label checkbox-directions">
+              Did you finish reading the book?
+            </p>
+            <div id="checkbox" class="completed-div">
+              <label class="yes-label" for="yes">yes</label>
+              <input value="yes" name="yes" type="checkbox" id="yes" />
+            </div>
+            <button type="submit" class="submit-btn">submit</button>
+          </fieldset>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
