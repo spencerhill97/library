@@ -15,14 +15,14 @@ https://spencerhill97.github.io/library/
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
 </div>
 
 
 ## Screenshots
 
-<img src="https://github.com/spencerhill97/library/assets/113248092/eb975621-508f-456f-bf9c-442da2dc5aec" width="250" />
-<img src="https://github.com/spencerhill97/library/assets/113248092/7b74c591-6b7e-4502-87fb-f0da55623621" width="250" />
+<img src="https://github.com/spencerhill97/library/assets/113248092/eb975621-508f-456f-bf9c-442da2dc5aec" width="350" />
+<img src="https://github.com/spencerhill97/library/assets/113248092/7b74c591-6b7e-4502-87fb-f0da55623621" width="350" />
 
 
 ## Features
